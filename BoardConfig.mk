@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-PLATFORM_PATH := device/motorola/parker
+PLATFORM_PATH := device/motorola/foles
 
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := sm6150

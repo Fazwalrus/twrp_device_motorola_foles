@@ -15,16 +15,16 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := parker
+PRODUCT_RELEASE_NAME := foles
 
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := parker
+PRODUCT_DEVICE := foles
 PRODUCT_NAME := omni_$(PRODUCT_DEVICE)
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := motorola one zoom
+PRODUCT_MODEL := moto z4
 PRODUCT_MANUFACTURER := motorola
 
 # Inherit from hardware-specific part of the product configuration

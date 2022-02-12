@@ -1,4 +1,4 @@
-ro.display.series=motorola one zoom
-ro.product.board=parker
+ro.display.series=moto z4
+ro.product.board=foles
 ro.board.platform=sm6150
 vendor.gatekeeper.disable_spu=true
